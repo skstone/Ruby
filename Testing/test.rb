@@ -12,7 +12,7 @@ end
 
 class Tree
     def grow
-        puts "I'm growing"
+        puts "I'm growing more."
     end
 end
 
